@@ -18,3 +18,8 @@
 # 个人主页信息：
 
 ![image](https://user-images.githubusercontent.com/87787286/223023978-3486c2e8-d79c-4710-a148-53480ce2d0c3.png)
+
+# 个人创建队伍信息：
+
+![image](https://user-images.githubusercontent.com/87787286/223024246-aaac8113-49f3-45da-8142-4b5395d22444.png)
+
